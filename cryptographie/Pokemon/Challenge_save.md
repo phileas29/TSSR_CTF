@@ -9,4 +9,3 @@ Qu'est-ce qui a bien pu se passer ?
 
 ---
 
-Flag : TSSR{1_l0ve_P1k4chu}
