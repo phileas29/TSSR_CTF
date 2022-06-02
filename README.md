@@ -11,6 +11,9 @@ Format des flags : TSSR{fl4g}
 
 Thème : Le Jeu Vidéo
 
+Pour un nouveau challenge, créer un dossier pour celui-ci dans la catégorie associée :
+TSSR_CTF/catégorie/monchallenge/fichiersduChall
+
 ## À faire
 
 - Description du CTF
