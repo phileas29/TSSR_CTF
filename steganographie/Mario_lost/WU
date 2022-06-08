@@ -1,0 +1,25 @@
+CHALL LOST MARIO :
+
+-On prend l'image.
+
+-On l'ouvre avec binwalk en faisant la commande : 
+
+$ binwalk -e Mario.png
+
+On peut aussi l'ouvrir sur apérisolve. 
+
+On fouille dedans on trouve une archive avec un mot de passe. 
+
+On prend l'archive pour la cracker.
+
+On génére un hash avec zip2john : 
+
+zip2john GG.zip > hash.txt
+
+On crack le mot de passe avec john et la wordlist rockyou : 
+
+john --w=/usr/share/wordlists/rockyou.txt hash.txt
+
+Mot de passe : poofbby
+
+FLAG : TSSR{M4r1o-Crypt0-Ez}
