@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /r3d-k3y/
+
