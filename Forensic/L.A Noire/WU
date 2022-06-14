@@ -1,0 +1,2 @@
+Ici rien de difficle. Pour trouver le flag : 
+grep -e TSSR dans le répértoire du chall. 
