@@ -1,8 +1,0 @@
-Ici il y a plusieurs méthode mais la principal est celle la : 
-
-On connais le compte instagram de cletus. Un outil très utiles en osint pour les comptes instagram est toutatis. 
-On utilie donc toutatis qui nous détécte un compte gmail.
-On décide alors d'utiliser GHUNT outil utile pour les comptes gmail.
-On essaye avec cletus.madrazo@gmail.com (classique).
-Il nous trouve bien un compte avec un calendrier. On ouvre le calendrier et la bingo on obtient un rdv le 2aout avec un challenge. 
-Flag : TSSR{En1-Qu1mPer}
